@@ -24,7 +24,7 @@ Some times (especially at small samples), the output is the same
 
 But the greedy algorithm is not gureenteed to be optimal
 
-![Alt text](image/different?raw=true "Different Outcome")
+![Alt text](image/different.png?raw=true "Different Outcome")
 
 The simulation can be ran using
 ```
